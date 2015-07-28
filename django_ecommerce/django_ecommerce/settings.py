@@ -28,6 +28,7 @@ TEMPLATE_DEBUG = True
 
 ALLOWED_HOSTS = []
 
+
 # this wasn't in the Real Python lesson, but may be needed
 SITE_ID = 1
 
