@@ -8,3 +8,4 @@ class ContactView(ModelForm):
 
     class Meta:
         model = ContactForm
+        fields = "__all__"
